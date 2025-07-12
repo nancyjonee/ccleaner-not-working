@@ -1,11 +1,10 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://tek.chat/">
+
 How to Resolve CCleaner Not Working? 🧹
 ============================================
-.
-.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 .. image:: https://trackigpsnotworking.readthedocs.io/en/latest/_images/support1.png
    :alt: My Project Logo
